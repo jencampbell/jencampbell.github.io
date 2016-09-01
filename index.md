@@ -1,11 +1,21 @@
 ---
 layout: default
+title: Jennifer Campbell
 ---
 
+
+<div class="grid">
+<div class="unit one-third">
+![jen](/jen.jpg)
+</div>
+
+<div class="unit two-thirds" left-padding="10px">
 <div class="lead pretty-links">
-  Hi! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
-
-  This could also be the good place to say were you are coming from, what you [do for a living](work/) and maybe what you are [interested in](projects/). You might also be [writing](articles/) about stuff.
-
-  But after all this is your site and I'm just a **placeholder text** so what would i know about some *home page content*.
+<p>
+I am an Associate Professor, Teaching Stream in Computer Science at the University of Toronto.  I received my MMath and Certificate in University Teaching from the University of Waterloo and my BSC from the University of Prince Edward Island.  
+</p>
+I primarily teach introductory programming courses and have co-developed two Coursera MOOCs ([LTP1](https://www.coursera.org/course/programming1){:target="_blank"} and [LTP2](https://www.coursera.org/course/programming2)){:target="_blank"} on learning to program in Python.  I am also engaged in Computer Science education [research projects](/research) and co-authored an [introductory textbook](https://pragprog.com/book/gwpy2/practical-programming){:target="_blank"} on Python programming.
+|
+</div>
+</div>
 </div>
