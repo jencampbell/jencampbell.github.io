@@ -5,7 +5,7 @@ title: Jennifer Campbell               # used for the html title of every page
 desc: Jennifer Campbell, Associate Professor, Teaching Stream    # comment
 
 url: http://www.cs.toronto.edu/~campbell      # put your website hosting url here
-baseurl: ''                 # the subpath of your site, e.g. /blog
+baseurl: ''            # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
@@ -27,7 +27,7 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
   - title: About
-    url: //
+    url: /about/
     desc: About me
   - title: Teaching
     url: /teaching/
