@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Jennifer Campbell, Publications
 subtitle: Publications
 desc: My publications
 permalink: /publications/
