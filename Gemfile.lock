@@ -8,43 +8,11 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    attribute_struct (0.3.4)
-      bogo (>= 0.1.31, < 0.3.0)
-    bogo (0.2.4)
-      hashie
-      multi_json
-    bogo-cli (0.2.8)
-      bogo (>= 0.1.6, < 0.6)
-      bogo-config (>= 0.1.15, < 0.5)
-      bogo-ui
-      slop (~> 3)
-    bogo-config (0.2.2)
-      attribute_struct
-      bogo (>= 0.1.4, < 1.0)
-      multi_json
-      multi_xml
-    bogo-ui (0.1.16)
-      bogo
-      command_line_reporter
-      paint
-    carnivore (1.0.8)
-      bogo-config (< 1.0)
-      hashie
-      multi_json
-      zoidberg (>= 0.1.12, < 1.0)
-    childprocess (0.5.9)
-      ffi (~> 1.0, >= 1.0.11)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
     coffee-script-source (1.10.0)
     colorator (1.1.0)
-    colored (1.2)
-    command_line_reporter (3.3.6)
-      colored (>= 1.2)
-    concurrent-ruby (1.0.2)
-    concurrent-ruby-edge (0.2.2)
-      concurrent-ruby (~> 1.0.2)
     ethon (0.9.0)
       ffi (>= 1.3.0)
     execjs (2.7.0)
@@ -81,17 +49,10 @@ GEM
       octokit (~> 4.0)
       public_suffix (~> 1.4)
       typhoeus (~> 0.7)
-    hashie (3.4.4)
     html-pipeline (2.4.2)
       activesupport (>= 2)
       nokogiri (>= 1.4)
     i18n (0.7.0)
-    jackal (0.5.0)
-      bogo (>= 0.1.24, < 1.0.0)
-      bogo-cli (~> 0.1)
-      bogo-config (>= 0.1.12, < 1.0.0)
-      carnivore (>= 1.0.0, < 2.0)
-      childprocess
     jekyll (3.2.1)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -138,9 +99,6 @@ GEM
     mini_portile2 (2.1.0)
     minima (1.0.1)
     minitest (5.9.0)
-    mono_logger (1.1.0)
-    multi_json (1.12.1)
-    multi_xml (0.5.5)
     multipart-post (2.0.0)
     net-dns (0.8.0)
     nokogiri (1.6.8)
@@ -148,7 +106,6 @@ GEM
       pkg-config (~> 1.1.7)
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
-    paint (1.0.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     pkg-config (1.1.7)
@@ -162,7 +119,6 @@ GEM
     sawyer (0.7.0)
       addressable (>= 2.3.5, < 2.5)
       faraday (~> 0.8, < 0.10)
-    slop (3.6.0)
     terminal-table (1.7.0)
       unicode-display_width (~> 1.1)
     thread_safe (0.3.5)
@@ -171,11 +127,6 @@ GEM
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     unicode-display_width (1.1.0)
-    zoidberg (0.3.0)
-      bogo
-      concurrent-ruby (~> 1.0.0)
-      concurrent-ruby-edge (~> 0.2.0)
-      mono_logger
 
 PLATFORMS
   ruby
