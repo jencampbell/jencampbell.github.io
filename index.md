@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Jennifer Campbell
-permalink: /
 ---
 
 
