@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Jennifer Campbell, Contact
 subtitle: Contact
 permalink: /contact/
 ---

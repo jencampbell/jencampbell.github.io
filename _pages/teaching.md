@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Teaching
-subtitle: Teaching
+title: Jennifer Campbell, Teaching
 desc: My teaching
 permalink: /teaching/
 ---
