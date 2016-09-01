@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Jennifer Campbell
+permalink: /index/
 ---
 
 
