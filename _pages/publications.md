@@ -37,7 +37,7 @@ Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
 
 ## Articles
 
-- Andrew Petersen, Michelle Craig, Anya Tafliovich, and Jennifer Campbell. Revisiting why students drop CS1. 2016. In Proceedings of the 16th Koli Calling International Conference on Computing Education Research (Koli Calling '16). 71-80. 
+- Andrew Petersen, Michelle Craig, Anya Tafliovich, and Jennifer Campbell. Revisiting why students drop CS1. 2016. In Proceedings of the 16th Koli Calling International Conference on Computing Education Research (Koli Calling '16). 71-80. **Special commendation: Runner-up for best paper** 
 - Jennifer Campbell, Diane Horton and Michelle Craig. "Factors for Success in Online CS1". 2016. In Proceedings of the 2016 conference on Innovation & Technology in Computer Science Education (ITiCSE’16). 320-325. **Runner Up for Best Paper at ITiCSE 2016.**
 - Diane Horton, Jennifer Campbell, and Michelle Craig. 2016. Online CS1: Who Enrols, Why, and How Do They Do?. In Proceedings of the 47th ACM Technical Symposium on Computing Science Education (SIGCSE '16). 323-328.
 - Anya Tafliovich, Andrew Petersen, and Jennifer Campbell. 2016. Evaluating Student Teams: Do Educators Know What Students Think?. In Proceedings of the 47th ACM Technical Symposium on Computing Science Education (SIGCSE '16). 181-186.
