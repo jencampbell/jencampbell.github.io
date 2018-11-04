@@ -5,7 +5,7 @@ title: Jennifer Campbell
 
 <div class="grid">
   <div class="unit one-third">
-    <img src="jen.jpg" alt="jen" style="max-height: 250px" />
+    ![jen](jen.jpg)
   </div>
   <div class="unit two-thirds" left-padding="10px">
 I am an Associate Professor, Teaching Stream in Computer Science at the University of Toronto.  I received my MMath and Certificate in University Teaching from the University of Waterloo and my BSC from the University of Prince Edward Island.  
