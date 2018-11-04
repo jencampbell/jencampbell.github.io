@@ -22,14 +22,15 @@ permalink: /teaching/
 
 ## Current courses
 
-- I am on research and study leave in 2016-17.
-- [Computing for Medicine](http://c4m.cdf.toronto.edu){:target="_blank"}
-- [LTP1 MOOC](https://www.coursera.org/learn/learn-to-program){:target="_blank"}
+- Fall 2018: CSC108 Introduction to Programming
+- Winter 2019: CSC209 Software Tools and Systems Programming
 
 ---
 
 ## Past courses
 
+- CSC209 Software Tools and Systems Programming
+- C4M Computing for Medicine
 - CSC108 Introduction to Programming
 - CSC207 Software Design
 - CSC120 Computer Science for the Sciences
