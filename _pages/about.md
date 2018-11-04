@@ -11,9 +11,9 @@ permalink: /about/
 
 <div class="unit two-thirds" left-padding="10px">
  -->
-<div class="lead lead-about">
- 	![jen](/jen.jpg =250px)
- </div>
+
+
+ <img src="jen.jpg" alt="jen" width="200"/>
  <div class="pretty-links">
 
 
