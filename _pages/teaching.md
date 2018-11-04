@@ -18,8 +18,6 @@ permalink: /teaching/
 {:/} -->
 
 
----
-
 ## Current courses
 
 - Fall 2018: CSC108 Introduction to Programming
