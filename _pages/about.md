@@ -12,8 +12,8 @@ permalink: /about/
 
 <div class="unit two-thirds" left-padding="10px">
  -->
- <div class="lead pretty-links">
-![jen](/jen.jpg)
+ <div class="pretty-links">
+![jen](/jen.jpg =100)
 
 I am an Associate Professor, Teaching Stream in Computer Science at the University of Toronto.  I received my MMath and Certificate in University Teaching from the University of Waterloo and my BSC from the University of Prince Edward Island.  
 
