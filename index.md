@@ -2,6 +2,7 @@
 layout: default
 title: Jennifer Campbell
 ---
+
 <div class="grid">
   <div class="unit one-third">
     <img src="jen.jpg" alt="jen" style="max-height: 250px" />
