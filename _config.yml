@@ -4,6 +4,8 @@
 title: Jennifer Campbell               # used for the html title of every page
 desc: Jennifer Campbell, Associate Professor, Teaching Stream    # comment
 
+theme: jekyll-theme-slate
+
 url: http://www.cs.toronto.edu/~campbell      # put your website hosting url here
 baseurl: ''            # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
