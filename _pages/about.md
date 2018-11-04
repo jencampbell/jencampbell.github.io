@@ -10,4 +10,4 @@ I primarily teach introductory programming courses and have co-developed two C
 
 I was awarded the Faculty of Arts &amp; Science Outstanding Teaching Award in 2014, and have received the Dean's Excellence Award several times.
 
-![Jen Campbell](./jen.jpg).
+![Jen Campbell](/jen.jpg)

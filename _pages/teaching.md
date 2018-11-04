@@ -5,11 +5,6 @@ desc: My teaching
 permalink: /teaching/
 ---
 
-<div class="pretty-links">
-
-<div class="lead lead-about">
-</div>
-
 <!-- 
 {::nomarkdown} 
 <figure class="site-profile">
@@ -35,8 +30,3 @@ permalink: /teaching/
 - CSC263 Data Structures and Analysis
 - CSC340 Information Systems Analysis and Design
 - CSC165 Mathematical Reasoning for Computer Science
-
-
-
-</div>
-

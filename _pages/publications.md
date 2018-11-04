@@ -6,10 +6,6 @@ desc: My publications
 permalink: /publications/
 ---
 
-<div class="pretty-links">
-
-<div class="lead lead-about">
-</div>
 Interests:  
 - Factors for success in introductory programming.  
 - Effectiveness of online and inverted classrooms.
@@ -60,5 +56,4 @@ Anya Tafliovich, Jennifer Campbell and Andrew Petersen: A Student Perspective o
 - Diane Horton and Jennifer Campbell. 2014. Impact of reward structures in an inverted course. In Proceedings of the 2014 conference on Innovation & technology in computer science education (ITiCSE '14). ACM, New York, NY, USA, 341-341.
 - Daniel D. Garcia, Jennifer Campbell, Rebecca Dovi, and Cay Horstmann. 2014. Re- discovering the passion, beauty, joy, and awe: making computing fun again, part 7. In Proceedings of the 45th ACM technical symposium on Computer science education (SIGCSE 2014). 273-274.
 
-</div>
 
