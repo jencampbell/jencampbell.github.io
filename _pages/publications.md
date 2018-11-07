@@ -26,14 +26,14 @@ Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
 
 ## Textbooks
 
-- Paul Gries, Jennifer Campbell, Jason Montojo: [Practical Programming, An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming){:target="_blank"}. Pragmatic Bookshelf, 2013.
+- Paul Gries, Jennifer Campbell, Jason Montojo: [Practical Programming, An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming){:target="_blank"} (3rd edition). Pragmatic Bookshelf, 2017.
 
 
 ---
 
 ## Articles
 
-- Jennifer Campbell, Andrew Petersen, and Jacqueline Smith.  2019. Self-paced Mastery Learning CS1. To Appear in the Proceedins of the Proceedings of the 50th ACM Technical Symposium on Computing Science Education, Minnesota, MN, USA.
+- Jennifer Campbell, Andrew Petersen, and Jacqueline Smith.  2019. Self-paced Mastery Learning CS1. To Appear in the Proceedings of the 50th ACM Technical Symposium on Computing Science Education, Minnesota, MN, USA. 6 pages.
 - Jennifer Campbell and Michelle Craig. 2018. Drop-In Help Centres: An Alternative to Office Hours. In Proceedings of the 23rd Western Canadian Conference on Computing Education (WCCCE '18). 9:1--9:6.
 - Jennifer Campbell, Michelle Craig, and Marcus Law. 2017. Computing for Medicine: An Experience Report. In Proceedings of the 2017 ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE '17). 281-286.
 - Andrew Petersen, Michelle Craig, Anya Tafliovich, and Jennifer Campbell. Revisiting why students drop CS1. 2016. In Proceedings of the 16th Koli Calling International Conference on Computing Education Research (Koli Calling '16). 71-80. **Special commendation: Runner-up for best paper** 
