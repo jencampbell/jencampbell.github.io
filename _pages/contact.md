@@ -21,9 +21,8 @@ Toronto, Ontario M5S 2E4
 **Mailing Address:**  
 Department of Computer Science  
 University of Toronto  
-10 King's College Road, Room 3302  
+40 St. George Street, Room 7224
 Toronto, Ontario, Canada  
-M5S 3G4
-
+M5S 2E4
 </div>
 
