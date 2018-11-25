@@ -11,7 +11,7 @@ campbell@cs.toronto.edu
 416-978-6320
 
 **Office:**
-Room 4238  
+Room 4268  
 Bahen Centre for Information Technology  
 Dept. of Computer Science  
 40 St. George St.  
