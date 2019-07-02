@@ -15,8 +15,8 @@ permalink: /teaching/
 
 ## Current courses
 
-- Fall 2018: CSC108 Introduction to Programming
-- Winter 2019: CSC209 Software Tools and Systems Programming
+- Fall 2019: CSC108 Introduction to Programming
+- Winter 2020: CSC209 Software Tools and Systems Programming
 
 ---
 
