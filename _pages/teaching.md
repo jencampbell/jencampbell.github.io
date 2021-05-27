@@ -15,7 +15,7 @@ permalink: /teaching/
 
 ## Current courses
 
--  I'm not teaching in 2021-22 due to my role as Associate Chair, Undergraduate Studies.
+- I'm not teaching in 2021-22 due to my role as Associate Chair, Undergraduate Studies.
 ---
 
 ## Past courses
