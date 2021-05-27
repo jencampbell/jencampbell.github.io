@@ -15,9 +15,7 @@ permalink: /teaching/
 
 ## Current courses
 
-- Fall 2019: CSC108 Introduction to Programming
-- Winter 2020: CSC209 Software Tools and Systems Programming
-
+-  I'm not teaching in 2021-22 due to my role as Associate Chair, Undergraduate Studies.
 ---
 
 ## Past courses
