@@ -32,6 +32,8 @@ Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
 ---
 
 ## Articles
+- Jonathan Calver, Jennifer Campbell, Michelle Craig and Jonathan Lam. 2022 The Impact of Optional Groups on Students. In Proceedings of the 53nd ACM Technical Symposium on Computing Science Education (SIGCSE’ 22). Association for Computing Machinery, New York, NY, USA, 829–835.
+- Jacqueline Smith, Jennifer Campbell, Jennifer Evans, and Chenyu Zhang. 2021 Building Community in a Competitive Undergraduate Program. In Proceedings of the 52nd ACM Technical Symposium on Computing Science Education (SIGCSE’ 21). Association for Computing Machinery, New York, NY, USA, 452-458.
 - Paul Gries, Jennifer Campbell, Daniel Zingaro and Thomas Fairgrieve. 2019. Poetry Form Checker. In the Proceedings of the Western Canadian Conference on Computing Education. 21:1-21:1. 
 - Michelle Craig, Andrew Petersen, and Jennifer Campbell. 2019. Answering the Correct Question. In the Proceedings of the ACM Conference on Global Computing Education. 72-77. 
 - Jennifer Campbell, Andrew Petersen, and Jacqueline Smith. 2019. Self-paced Mastery Learning CS1. In the Proceedings of the 50th ACM Technical Symposium on Computing Science Education, Minnesota, MN, USA. 955-961.
