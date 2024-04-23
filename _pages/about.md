@@ -4,8 +4,6 @@ title: Jennifer Campbell
 permalink: /about/
 ---
 
-
-
 <img src="../assets/img/jen.jpg" alt="jen" max-width="100px"/>
 <br><br>
 I am a Professor, Teaching Stream in the Department of Computer Science at the University of Toronto.  I received my MMath (with Certificate in University Teaching) from the University of Waterloo and my BSc from the University of Prince Edward Island.
