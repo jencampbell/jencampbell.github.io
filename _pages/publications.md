@@ -34,7 +34,7 @@ Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
 
 ## Articles
 - Jennifer Campbell, Mark Floryan, Geoffrey Herman, Michael Hilton, and Jérémie
-Lumbroso. 2024, Best Practices for Hiring Teaching Faculty in Research Computing Departments [White paper]. Computing Research Association (CRA). https://cra.org/resources/best-practice-memos/hiring-teaching-faculty-in-research-computing-departments/
+Lumbroso. 2024, Best Practices for Hiring Teaching Faculty in Research Computing Departments [White paper]. Computing Research Association (CRA). [https://cra.org/resources/best-practice-memos/hiring-teaching-faculty-in-research-computing-departments/](https://cra.org/resources/best-practice-memos/hiring-teaching-faculty-in-research-computing-departments/)
 - Jonathan Calver, Jennifer Campbell and Michelle Craig. 2023. Student Perspectives on Optional Groups. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE TS '23). Association for Computing Machinery, New York, NY, USA. 18-24.
 - Jonathan Calver, Jennifer Campbell, Michelle Craig and Jonathan Lam. 2022. The Impact of Optional Groups on Students. In Proceedings of the 53nd ACM Technical Symposium on Computer Science Education (SIGCSE TS '22). Association for Computing Machinery, New York, NY, USA, 829–835.
 - Jacqueline Smith, Jennifer Campbell, Jennifer Evans, and Chenyu Zhang. 2021 Building Community in a Competitive Undergraduate Program. In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE TS '21). Association for Computing Machinery, New York, NY, USA, 452-458.

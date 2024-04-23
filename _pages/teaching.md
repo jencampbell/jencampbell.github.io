@@ -13,9 +13,9 @@ permalink: /teaching/
 {:/} -->
 
 
-## Current/upcoming Courses
+## Courses
 
-- Winter 2025: CSC108 Introduction to programming
+- Winter 2025: CSC108 Introduction to Programming
 ---
 
 ## Past courses
