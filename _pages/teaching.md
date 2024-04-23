@@ -13,9 +13,9 @@ permalink: /teaching/
 {:/} -->
 
 
-## Current courses
+## Current/upcoming Courses
 
-- I'm not teaching in 2021-22 due to my role as Associate Chair, Undergraduate Studies.
+- Winter 2025: CSC108 Introduction to programming
 ---
 
 ## Past courses

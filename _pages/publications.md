@@ -7,6 +7,7 @@ permalink: /publications/
 ---
 
 Interests:  
+- Sense of belonging in computing; disciplinary identity.
 - Factors for success in introductory programming.  
 - Effectiveness of online and inverted classrooms.
 
@@ -32,12 +33,15 @@ Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
 ---
 
 ## Articles
-- Jonathan Calver, Jennifer Campbell, Michelle Craig and Jonathan Lam. 2022 The Impact of Optional Groups on Students. In Proceedings of the 53nd ACM Technical Symposium on Computing Science Education (SIGCSE’ 22). Association for Computing Machinery, New York, NY, USA, 829–835.
-- Jacqueline Smith, Jennifer Campbell, Jennifer Evans, and Chenyu Zhang. 2021 Building Community in a Competitive Undergraduate Program. In Proceedings of the 52nd ACM Technical Symposium on Computing Science Education (SIGCSE’ 21). Association for Computing Machinery, New York, NY, USA, 452-458.
+- Jennifer Campbell, Mark Floryan, Geoffrey Herman, Michael Hilton, and Jérémie
+Lumbroso. 2024, Best Practices for Hiring Teaching Faculty in Research Computing Departments [White paper]. Computing Research Association (CRA). https://cra.org/resources/best-practice-memos/hiring-teaching-faculty-in-research-computing-departments/
+- Jonathan Calver, Jennifer Campbell and Michelle Craig. 2023. Student Perspectives on Optional Groups. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE TS '23). Association for Computing Machinery, New York, NY, USA. 18-24.
+- Jonathan Calver, Jennifer Campbell, Michelle Craig and Jonathan Lam. 2022. The Impact of Optional Groups on Students. In Proceedings of the 53nd ACM Technical Symposium on Computer Science Education (SIGCSE TS '22). Association for Computing Machinery, New York, NY, USA, 829–835.
+- Jacqueline Smith, Jennifer Campbell, Jennifer Evans, and Chenyu Zhang. 2021 Building Community in a Competitive Undergraduate Program. In Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE TS '21). Association for Computing Machinery, New York, NY, USA, 452-458.
 - Paul Gries, Jennifer Campbell, Daniel Zingaro and Thomas Fairgrieve. 2019. Poetry Form Checker. In the Proceedings of the Western Canadian Conference on Computing Education. 21:1-21:1. 
 - Michelle Craig, Andrew Petersen, and Jennifer Campbell. 2019. Answering the Correct Question. In the Proceedings of the ACM Conference on Global Computing Education. 72-77. 
-- Jennifer Campbell, Andrew Petersen, and Jacqueline Smith. 2019. Self-paced Mastery Learning CS1. In the Proceedings of the 50th ACM Technical Symposium on Computing Science Education, Minnesota, MN, USA. 955-961.
-- Yifei Dong, Michelle Craig, and Jennifer Campbell. 2019. Evaluating the Effect of Follow-up Questions in an Online Exercise. To Appear in the Proceedings of the 50th ACM Technical Symposium on Computing Science Education, Minnesota, MN, USA. Abstract only.
+- Jennifer Campbell, Andrew Petersen, and Jacqueline Smith. 2019. Self-paced Mastery Learning CS1. In the Proceedings of the 50th ACM Technical Symposium on Computer Science Education, Minnesota, MN, USA. 955-961.
+- Yifei Dong, Michelle Craig, and Jennifer Campbell. 2019. Evaluating the Effect of Follow-up Questions in an Online Exercise. To Appear in the Proceedings of the 50th ACM Technical Symposium on Computer Science Education, Minnesota, MN, USA. Abstract only.
 - Marcus Law, Paula Veinot, Jennifer Campbell, Michelle Craig, and Maria Mylopoulos. 2018. Computing for Medicine: Can We Prepare Medical Students for the Future? Academic Medicine.
 - Jennifer Campbell and Michelle Craig. 2018. Drop-In Help Centres: An Alternative to Office Hours. In Proceedings of the 23rd Western Canadian Conference on Computing Education (WCCCE '18). 9:1--9:6.
 - Jennifer Campbell, Michelle Craig, and Marcus Law. 2017. Computing for Medicine: An Experience Report. In Proceedings of the 2017 ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE '17). 281-286.
