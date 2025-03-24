@@ -33,8 +33,8 @@ Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
 ---
 
 ## Articles
-- Jennifer Campbell and Karen Reid. 2025. Comparing the Impact of Strict and Flexible Deadline Policies. In Proceedings of the 56 ACM Technical Symposium on Computer Science Education (SIGCSE TS '25). Association for Computing Machinery, New York, NY, USA. **To Appear**
-- Jennifer Campbell, Jacqueline Smith, and Emily Greenleaf. 2025. Exploring Sense of Belonging for CS Majors with Direct vs Competitive Admission Pathways. In Proceedings of the 56 ACM Technical Symposium on Computer Science Education (SIGCSE TS '25). Association for Computing Machinery, New York, NY, USA. **To Appear**
+- Jennifer Campbell and Karen Reid. 2025. Comparing the Impact of Strict and Flexible Deadline Policies. In Proceedings of the 56 ACM Technical Symposium on Computer Science Education (SIGCSE TS '25). Association for Computing Machinery, New York, NY, USA. 
+- Jennifer Campbell, Jacqueline Smith, and Emily Greenleaf. 2025. Exploring Sense of Belonging for CS Majors with Direct vs Competitive Admission Pathways. In Proceedings of the 56 ACM Technical Symposium on Computer Science Education (SIGCSE TS '25). Association for Computing Machinery, New York, NY, USA. 
 - Jennifer Campbell, Phill Conrad, Victoria Dean, Geoffrey L. Herman, and Michael Hilton. 2024. Best Practices for Hiring of Teaching Track Faculty Members. In Proceedings of the 2024 on ACM Virtual Global Computing Education Conference (SIGCSE Virtual 2024). Association for Computing Machinery, New York, NY, USA, 287–288.
 - Jennifer Campbell, Mark Floryan, Geoffrey Herman, Michael Hilton, and Jérémie
 Lumbroso. 2024, Best Practices for Hiring Teaching Faculty in Research Computing Departments [White paper]. Computing Research Association (CRA). [https://cra.org/resources/best-practice-memos/hiring-teaching-faculty-in-research-computing-departments/](https://cra.org/resources/best-practice-memos/hiring-teaching-faculty-in-research-computing-departments/)
