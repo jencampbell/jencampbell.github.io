@@ -33,6 +33,7 @@ Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
 ---
 
 ## Articles
+- Sophia Krause-Levy, Andrew Petersen, Oladele Oladunjoye Campbell, William G. Griswold, Leo Porter, Oluwatoyin Adelakun-Adeyemo, Jennifer Campbell, Michelle Craig, Adrienne Decker, Sebastian Dziallas, Carrie Demmans Epp, David R. Gibson, Yekaterina Kharitonova, Devorah Kletenik, David L. Largent, Emma McDonald, Brian M. McSkimming, Tina L. Peterson, Caroline Sih, Cynthia Taylor, and Neena Thota. 2025. Multi-Institutional Study on Impostor Phenomenon. ACM Trans. Comput. Educ. 25, 4, Article 47 (December 2025), 29 pages.
 - Jennifer Campbell and Karen Reid. 2025. Comparing the Impact of Strict and Flexible Deadline Policies. In Proceedings of the 56 ACM Technical Symposium on Computer Science Education (SIGCSE TS '25). Association for Computing Machinery, New York, NY, USA. 
 - Jennifer Campbell, Jacqueline Smith, and Emily Greenleaf. 2025. Exploring Sense of Belonging for CS Majors with Direct vs Competitive Admission Pathways. In Proceedings of the 56 ACM Technical Symposium on Computer Science Education (SIGCSE TS '25). Association for Computing Machinery, New York, NY, USA. 
 - Jennifer Campbell, Phill Conrad, Victoria Dean, Geoffrey L. Herman, and Michael Hilton. 2024. Best Practices for Hiring of Teaching Track Faculty Members. In Proceedings of the 2024 on ACM Virtual Global Computing Education Conference (SIGCSE Virtual 2024). Association for Computing Machinery, New York, NY, USA, 287–288.

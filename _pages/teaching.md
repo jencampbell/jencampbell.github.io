@@ -16,7 +16,8 @@ permalink: /teaching/
 ## Courses
 
 
-- Winter 2025: CSC108 Introduction to Programming
+- Fall 2025: CSC108 Introduction to Programming
+- Winter 2026: CSC271: Computational Principles and Methods for Data Science
 
 ---
 
