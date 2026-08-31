@@ -166,6 +166,39 @@ p.post-desc {
   color: $dark-blue;
 }
 
+// PAGE INTRO (home + about) ====================================
+
+.intro {
+  margin-top: $spacer1;
+  display: flex;
+  flex-direction: column;
+  gap: $spacer1;
+}
+
+.intro-photo {
+  width: 180px;
+  height: auto;
+  border-radius: $border-radius;
+  align-self: center;
+}
+
+.intro-text p:last-child {
+  margin-bottom: 0;
+}
+
+@include mq-up(sm) {
+  .intro {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: $spacer2;
+  }
+
+  .intro-photo {
+    flex: 0 0 auto;
+    align-self: auto;
+  }
+}
+
 .site-profile {
   float: right;
   width: 96px;
