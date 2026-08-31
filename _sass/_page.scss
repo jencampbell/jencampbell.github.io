@@ -207,6 +207,14 @@ p.post-desc {
   }
 }
 
+// Match the body text size of pages using `layout: page`
+@include mq-up(md) {
+  .intro-text {
+    font-size: $fs-md;
+    line-height: $lh-md;
+  }
+}
+
 .site-profile {
   float: right;
   width: 96px;
