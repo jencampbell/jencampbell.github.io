@@ -4,7 +4,7 @@ title: Jennifer Campbell
 ---
 
 <div class="intro">
-<img class="intro-photo" src="{{ site.baseurl }}/assets/img/jen.jpg" alt="Jennifer Campbell" />
+<div class="intro-photo" style="width: 30%"><img src="{{ site.baseurl }}/assets/img/jen.jpg" alt="Jennifer Campbell" /></div>
 <div class="intro-text" markdown="1">
 
 I am a Professor, Teaching Stream in Computer Science at the University of Toronto. I received my MMath and Certificate in University Teaching from the University of Waterloo and my BSc from the University of Prince Edward Island.

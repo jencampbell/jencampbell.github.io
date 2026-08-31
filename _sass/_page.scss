@@ -175,17 +175,15 @@ p.post-desc {
   gap: $spacer1;
 }
 
-.intro > p {
-  margin: 0;
+.intro-photo {
+  align-self: center;
 }
 
-.intro-photo {
-  width: 96px;
-  height: 96px;
-  border-radius: 50%;
-  object-fit: cover;
-  object-position: center 20%;
-  align-self: center;
+.intro-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: $border-radius;
 }
 
 .intro-text p:last-child {
@@ -200,7 +198,7 @@ p.post-desc {
   }
 
   .intro-photo {
-    flex: 0 0 auto;
+    flex-shrink: 0;
     align-self: auto;
   }
 }
