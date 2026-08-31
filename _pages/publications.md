@@ -27,7 +27,7 @@ Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
 
 ## Textbooks
 
-- Paul Gries, Jennifer Campbell, Jason Montojo: [Practical Programming, An Introduction to Computer Science Using Python 3](https://pragprog.com/book/gwpy2/practical-programming){:target="_blank"} (3rd edition). Pragmatic Bookshelf, 2017.
+- Dmitry Zinoviev, Paul Gries, Jennifer Campbell, Jason Montojo: [Practical Programming, An Introduction to Computer Science Using Python 3](https://pragprog.com/titles/gwpy4/practical-programming-fourth-edition-4th-edition/){:target="_blank"} (4th edition). Pragmatic Bookshelf, 2026.
 
 
 ---
