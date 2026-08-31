@@ -180,9 +180,11 @@ p.post-desc {
 }
 
 .intro-photo {
-  width: 110px;
-  height: auto;
-  border-radius: $border-radius;
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 20%;
   align-self: center;
 }
 
