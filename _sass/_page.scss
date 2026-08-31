@@ -175,8 +175,12 @@ p.post-desc {
   gap: $spacer1;
 }
 
+.intro > p {
+  margin: 0;
+}
+
 .intro-photo {
-  width: 180px;
+  width: 110px;
   height: auto;
   border-radius: $border-radius;
   align-self: center;
